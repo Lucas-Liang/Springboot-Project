@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="com-spring-core:war exploded">
+    <output-path>$PROJECT_DIR$/com-spring-core/target/com-spring-core-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="com-spring-core" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-starter-oauth2:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-redis:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:unknown" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.social:spring-social-config:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.social:spring-social-core:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.social:spring-social-security:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.social:spring-social-web:unknown" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:unknown" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:unknown" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-configuration-processor:unknown" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/com-spring-core/target/com-spring-core-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="com-spring-core/web/Web" />
+    </root>
+  </artifact>
+</component>

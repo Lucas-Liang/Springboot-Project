@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Project.iml" filepath="$PROJECT_DIR$/Springboot-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-spring/com-spring.iml" filepath="$PROJECT_DIR$/com-spring/com-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-spring-app/com-spring-app.iml" filepath="$PROJECT_DIR$/com-spring-app/com-spring-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-spring-browser/com-spring-browser.iml" filepath="$PROJECT_DIR$/com-spring-browser/com-spring-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-spring-core/com-spring-core.iml" filepath="$PROJECT_DIR$/com-spring-core/com-spring-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-spring-web-oboom/com-spring-web-oboom.iml" filepath="$PROJECT_DIR$/com-spring-web-oboom/com-spring-web-oboom.iml" />
+    </modules>
+  </component>
+</project>
